@@ -4,7 +4,7 @@ public class Pro3_1_150118015 {
 	public static void main(String[] args) {
 		/*This program will find the smallest number whose sum of cubes
 		 of digits is equal to the number*/
-		//HASAN FATÝH BAÞAR - 150115018
+		//HASAN FATIH BASAR - 150115018
 		
 		int number, mod, SumOfCubes, temp2, temp;
 		number = 1;
