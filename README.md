@@ -4,3 +4,4 @@ Allmost all of them works properly but some of them have bugs in it. I hope I wi
 #### Includes: ####
 * DiamondPattern: This program prints a diamond pattern.
 * SlopeCalculator: This program calculates the slope of given points.
+* SumOfCubesIsEqualToActualNumber: This program will find the smallest number whose sum of cubes of digits is equal to the number.
