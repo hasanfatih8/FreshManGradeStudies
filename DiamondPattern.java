@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Pro3_2_150118015 {
 	/*The main purpose of this program that we're executing now is creating a diamond pattern
 	by a letter which is taken from user.*/
-	//HASAN FAT›H BAﬁAR - 150118015
+	//HASAN FAT√ùH BA√ûAR - 150118015
 	public static void main(String[] args) {
 		int i, DiamondN, k, a, b;
 		b = 1;
