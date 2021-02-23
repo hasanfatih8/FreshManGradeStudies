@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 public class Pro1_150118015 {
-//Hasan Fatih Başar - 150118015
+//Hasan Fatih BaÃ¾ar - 150118015
 	
 	public static void main(String[] args) {
 		
-		//CSE1141 - BETÜL DEMİRÖZ BOZ
+		//CSE1141 - BETÃœL DEMÃRÃ–Z BOZ
 		
 		Scanner input = new Scanner(System.in);
 		
